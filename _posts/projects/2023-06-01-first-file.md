@@ -1,8 +1,17 @@
 ---
-layout: post
-title:  "First File"
-date:   2023-06-01 14:03:12 +0900
-categories: jekyll update
+
+layout: project
+permalink: /:title/
+category: projects
+
+meta:
+  keywords: "Jekyll, Pineapple"
+  ㅇate:   2023-06-01 14:03:12 +0900
+
+project:
+  title: "First File"
+  type: "Jekyll"
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
