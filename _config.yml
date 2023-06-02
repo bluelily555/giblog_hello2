@@ -1,16 +1,16 @@
 # User config
-author: "Pineapple"
+author: "AYOWHATSUP"
 tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
+description: "KDT 깃블로그 만들기 프로젝트"
 keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
+email: "bluelily555@daum.net"
 linkedin: "https://www.linkedin.com/"
 twitter: "https://twitter.com/"
 github: "https://bluelily555.github.io/"
 
 # Site config
 baseurl: "/giblog_hello2"
-url: "https://bluelily555.github.io"
+#url: "https://bluelily555.github.io"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
