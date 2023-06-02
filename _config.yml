@@ -6,10 +6,11 @@ keywords: "Pineapple, Pineapple Pizza, Pineapple House"
 email: "pineapple@example.com"
 linkedin: "https://www.linkedin.com/"
 twitter: "https://twitter.com/"
-github: "https://github.com/"
+github: "https://bluelily555.github.io/"
 
 # Site config
 baseurl: "/giblog_hello2"
+url: "https://bluelily555.github.io"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
