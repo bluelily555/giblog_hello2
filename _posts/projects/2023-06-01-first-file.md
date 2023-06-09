@@ -6,7 +6,7 @@ category: projects
 
 meta:
   keywords: "Jekyll, Pineapple"
-  ㅇate:   2023-06-01 14:03:12 +0900
+  ate:   2023-06-01 14:03:12 +0900
 
 project:
   title: "First File"
