@@ -13,6 +13,16 @@ project:
   type: "Jekyll"
   logo: "/assets/images/projects/redpineapple/logo.png"
 
+images:
+  - image:
+    url: "/assets/images/projects/redpineapple/devices.jpg"
+    alt: "Red Pineapple website on tablet, mobile and desktop"
+  - image:
+    url: "/assets/images/projects/redpineapple/desktop.jpg"
+    alt: "Red Pineapple website on a desktop device"
+  - image:
+    url: "/assets/images/projects/redpineapple/mobile.jpg"
+    alt: "Red Pineapple website on a mobile device"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
